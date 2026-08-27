@@ -95,3 +95,10 @@ Implementing these recommendations is expected to help Well-Life General Hospita
 - Business insight generation
 - Data-driven recommendations
 - Translating analytical findings into actionable business decisions
+
+## 📂 Project Files
+
+| File | Description |
+|---|---|
+| `Well-Life-Hospital-Patient-Analysis.pbix` | Power BI project containing the data model, analysis, measures, and interactive dashboard |
+| `well-life-hospital-dashboard.png` | Preview image of the completed Power BI dashboard |

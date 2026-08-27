@@ -10,6 +10,12 @@ The analysis focuses on patient admissions, demographic distribution, and major 
 
 The project transforms raw patient records into an interactive Power BI dashboard, providing a clear and accessible view of the hospital's patient data.
 
+
+## 📊 Dashboard Preview
+
+![Well-Life Hospital Dashboard](well-life-hospital-dashboard.png)
+
+
 🎯 Business Problem
 
 Well-Life General Hospital has accumulated patient records from 2021 to 2024 but lacks a simple and interactive way to analyze the information.

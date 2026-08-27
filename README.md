@@ -38,5 +38,20 @@ Generate actionable insights that can support hospital administration and clinic
 🛠️ Tools & Technologies
 Power BI — Data analysis and visualization
 Power Query — Data cleaning and transformation
+
+📁 Dataset
+
+The dataset contains hospital patient records covering the period 2021–2024. The analysis focuses on information relevant to patient admissions, demographics, and medical conditions.
+
+Data Preparation
+
+Before building the dashboard, the data was prepared and transformed using Power Query. Key preparation activities included:
+
+Reviewing the dataset structure and data types.
+Cleaning and standardizing data where required.
+Handling missing or inconsistent values.
+Removing unnecessary data fields.
+Ensuring fields were correctly formatted for analysis.
+Preparing the data for visualization and reporting in Power BI.
 DAX — Measures and calculations
 Microsoft Excel — Data source/preparation

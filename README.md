@@ -28,16 +28,16 @@ Without an effective analytical dashboard, extracting meaningful insights from i
 
 The analysis aims to:
 
-Analyze patient admissions between 2021 and 2024.
-Examine the distribution of patients across key demographic groups.
-Identify the major medical conditions recorded.
-Analyze patterns and trends in patient records over time.
-Provide management with an interactive dashboard for easier data interpretation.
-Generate actionable insights that can support hospital administration and clinical decision-making.
+- Analyze patient admissions between 2021 and 2024.
+- Examine the distribution of patients across key demographic groups.
+- Identify the major medical conditions recorded.
+- Analyze patterns and trends in patient records over time.
+- Provide management with an interactive dashboard for easier data interpretation.
+- Generate actionable insights that can support hospital administration and clinical decision-making.
 
 🛠️ Tools & Technologies
-Power BI — Data analysis and visualization
-Power Query — Data cleaning and transformation
+- Power BI — Data analysis and visualization
+- Power Query — Data cleaning and transformation
 
 📁 Dataset
 
@@ -47,44 +47,44 @@ Data Preparation
 
 Before building the dashboard, the data was prepared and transformed using Power Query. Key preparation activities included:
 
-Reviewing the dataset structure and data types.
-Cleaning and standardizing data where required.
-Handling missing or inconsistent values.
-Removing unnecessary data fields.
-Ensuring fields were correctly formatted for analysis.
-Preparing the data for visualization and reporting in Power BI.
-DAX — Measures and calculations
-Microsoft Excel — Data source/preparation
+- Reviewing the dataset structure and data types.
+- Cleaning and standardizing data where required.
+- Handling missing or inconsistent values.
+- Removing unnecessary data fields.
+- Ensuring fields were correctly formatted for analysis.
+- Preparing the data for visualization and reporting in Power BI.
+- DAX — Measures and calculations
+- Microsoft Excel — Data source/preparation
 
 🔍 Key Insights
 
 The analysis of patient records from 2021–2024 revealed the following key findings:
 
-Admission trends: Patient admissions varied across the four-year period, providing management with visibility into changes in patient demand over time.
-Demographic patterns: The dashboard highlights differences in patient distribution across demographic groups, helping the hospital understand the composition of its patient population.
-Medical conditions: Certain medical conditions account for a larger share of patient records, indicating areas that may require greater clinical attention and resource planning.
-Patient demand: Combining admission trends with demographic and medical-condition data provides a clearer picture of the types of patients the hospital is serving.
-Management visibility: The interactive Power BI dashboard makes it easier for management to monitor patient patterns and use data to support administrative and clinical planning.
+- Admission trends: Patient admissions varied across the four-year period, providing management with visibility into changes in patient demand over time.
+- Demographic patterns: The dashboard highlights differences in patient distribution across demographic groups, helping the hospital understand the composition of its patient population.
+- Medical conditions: Certain medical conditions account for a larger share of patient records, indicating areas that may require greater clinical attention and resource planning.
+- Patient demand: Combining admission trends with demographic and medical-condition data provides a clearer picture of the types of patients the hospital is serving.
+- Management visibility: The interactive Power BI dashboard makes it easier for management to monitor patient patterns and use data to support administrative and clinical planning.
 
 💡 Recommendations
 
 Based on the analysis, the hospital can:
 
-Strengthen resource planning by using admission trends to anticipate changes in patient demand.
-Improve patient-focused planning by considering demographic patterns when allocating services and support.
-Prioritize clinical resources toward medical conditions with higher patient volumes.
-Monitor admission patterns regularly through the Power BI dashboard to support timely operational decisions.
-Use data-driven reporting to improve communication between hospital administration and clinical teams.
+- Strengthen resource planning by using admission trends to anticipate changes in patient demand.
+- Improve patient-focused planning by considering demographic patterns when allocating services and support.
+- Prioritize clinical resources toward medical conditions with higher patient volumes.
+- Monitor admission patterns regularly through the Power BI dashboard to support timely operational decisions.
+- Use data-driven reporting to improve communication between hospital administration and clinical teams.
 
 📈 Expected Outcomes
 
 Implementing these recommendations is expected to help Well-Life General Hospital:
 
-Improve planning and allocation of clinical resources.
-Respond more effectively to changes in patient demand.
-Improve visibility into patient population patterns.
-Support more informed administrative and clinical decisions.
-Establish a more consistent, data-driven approach to hospital performance monitoring.
+- Improve planning and allocation of clinical resources.
+- Respond more effectively to changes in patient demand.
+- Improve visibility into patient population patterns.
+- Support more informed administrative and clinical decisions.
+- Establish a more consistent, data-driven approach to hospital performance monitoring.
 
 🧠 Skills Demonstrated
 - Data cleaning and transformation using Power Query

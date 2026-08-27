@@ -87,11 +87,11 @@ Support more informed administrative and clinical decisions.
 Establish a more consistent, data-driven approach to hospital performance monitoring.
 
 🧠 Skills Demonstrated
-Data cleaning and transformation using Power Query
-Data analysis and calculations using DAX
-Interactive dashboard development in Power BI
-Data visualization and presentation
-Trend and demographic analysis
-Business insight generation
-Data-driven recommendations
-Translating analytical findings into actionable business decisions
+- Data cleaning and transformation using Power Query
+- Data analysis and calculations using DAX
+- Interactive dashboard development in Power BI
+- Data visualization and presentation
+- Trend and demographic analysis
+- Business insight generation
+- Data-driven recommendations
+- Translating analytical findings into actionable business decisions
